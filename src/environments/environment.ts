@@ -4,7 +4,7 @@
 
 export const environment = {
 
-  backendURL: 'http://localhost:3000/',
+  backendURL: '/api',
   production: false,
   confirm: {
     email: '',
